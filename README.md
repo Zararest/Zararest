@@ -15,7 +15,7 @@
 </p>
 
 ## Best projects
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zararest&repo=LLVM)](https://github.com/Zararest/LLVM)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zararest&repo=2_5_ParaCL)](https://github.com/Zararest/2_5_ParaCL)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zararest&repo=Dominators)](https://github.com/Zararest/Dominators)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zararest&repo=GPU)](https://github.com/Zararest/GPU)
